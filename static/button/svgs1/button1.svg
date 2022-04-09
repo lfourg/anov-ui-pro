@@ -1,0 +1,73 @@
+  <svg
+    id="button1"
+    data-name="btn def"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 245 55"
+    x="0px"
+    y="0px"
+    xml:space="preserve"
+  >
+    <defs>
+      <linearGradient
+        id="button1_17"
+        x1="1980"
+        y1="-1331"
+        x2="2215"
+        y2="-1331"
+        gradientTransform="matrix(1, 0, 0, -1, -1975.5, -1304.5)"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="0" stop-color="#115FEA" stop-opacity="0" />
+        <stop offset="0.5" stop-color="#115FEA" />
+        <stop offset="0.5" stop-color="#115FEA" />
+        <stop offset="1" stop-color="#115FEA" stop-opacity="0" />
+      </linearGradient>
+      <linearGradient
+        id="button1_16"
+        x1="1993"
+        y1="-1316"
+        x2="2216"
+        y2="-1316"
+        gradientTransform="matrix(1, 0, 0, -1, -1975.5, -1304.5)"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="0" stop-color="#115FEA" stop-opacity="0" />
+        <stop offset="0.5" stop-color="#115FEA" />
+        <stop offset="1" stop-color="#115FEA" stop-opacity="0" />
+      </linearGradient>
+      <linearGradient
+        id="button1_15"
+        x1="1988.25"
+        y1="-1356"
+        x2="1988.25"
+        y2="-1305"
+        gradientTransform="matrix(1, 0, 0, -1, -1975.5, -1304.5)"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="0" stop-color="#115FEA" stop-opacity="0" />
+        <stop offset="0.49" stop-color="#115FEA" />
+        <stop offset="0.5" stop-color="#115FEA" />
+        <stop offset="1" stop-color="#115FEA" stop-opacity="0" />
+      </linearGradient>
+      <linearGradient id="button1_14" x1="2206.75" y1="-1359" x2="2206.75" y2="-1308" xlink:href="#button1_15" />
+      <linearGradient id="button1_11" x1="2016" y1="-1351.5" x2="2179" y2="-1351.5" xlink:href="#button1_17" />
+      <linearGradient id="button1_12" x1="2016" y1="-1310.5" x2="2179" y2="-1310.5" xlink:href="#button1_17" />
+    </defs>
+    <path
+      id="button1_Rectangle_1876_copy_5"
+      data-name="Rectangle 1876 copy 5"
+      d="M4.5,18.5l12.86-13H239.5V33.15l-13,14.35H4.5Z"
+      fill-rule="evenodd"
+      opacity="0.5"
+      fill="url(#button1_17)"
+      style="isolation: isolate"
+    />
+    <polygon points="240.5 18 228.31 18 215.31 6 17.5 6 17.5 5 215.69 5 228.69 17 240.5 17 240.5 18" fill="url(#button1_16)" />
+    <path d="M227.5,4.5h12v12Z" fill="#115FEA" fill-rule="evenodd" />
+    <path d="M226.72,48H4V18.28L18.16,5H240V33.34ZM5,47H226.28L239,33V6H18.56L5,18.72Z" fill="url(#button1_17)" />
+    <polygon points="9.5 52 0 52 0 16.29 17.16 0 25.5 0 25.5 1 17.56 1 1 16.71 1 51 9.5 51 9.5 52" fill="url(#button1_15)" />
+    <polygon points="227.73 55 217.5 55 217.5 54 227.27 54 244 34.32 244 3.5 245 3.5 245 34.68 227.73 55" fill="url(#button1_14)" />
+    <path id="button1_Shape_1886_拷贝_2" data-name="Shape 1886 拷贝 2" d="M40.5,45.5h163v3H40.5v-3Z" fill-rule="evenodd" fill="url(#button1_11)" />
+    <path id="button1_Shape_1886_拷贝" data-name="Shape 1886 拷贝" d="M40.5,4.5h163v3H40.5v-3Z" fill-rule="evenodd" fill="url(#button1_12)" />
+  </svg>

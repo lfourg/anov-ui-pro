@@ -1,0 +1,13 @@
+<svg
+    id="button8"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 180 40"
+    x="0px"
+    y="0px"
+    xml:space="preserve"
+  >
+    <path id="button8_btn02" d="M0,0H180V40H0V0ZM1,1H179V39H1V1Z" fill="#EB9C10" fill-rule="evenodd" />
+    <path id="button8_btn-deck" d="M3.61,4h171V36H3.61V4Z" fill="#EB9C10" fill-rule="evenodd" opacity="0.2" style="isolation: isolate" />
+    <path id="button8_btn-02-1" d="M0,0H6V6H0V0ZM0,34H6v6H0V34Zm174,0h6v6h-6V34Zm0-34h6V6h-6V0Z" fill="#EB9C10" fill-rule="evenodd" />
+  </svg>

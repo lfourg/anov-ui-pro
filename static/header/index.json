@@ -1,0 +1,128 @@
+[
+  {
+    "name": "科技",
+    "en_name": "technology",
+    "list": [
+      {
+        "name": "科技1",
+        "code": "technology_1",
+        "thumb": "header/svgs/header1.svg",
+        "path": "header/svgs/header1.svg"
+      },
+      {
+        "name": "科技2",
+        "code": "technology_2",
+        "thumb": "header/svgs/header2.svg",
+        "path": "header/svgs/header2.svg"
+      },
+      {
+        "name": "科技3",
+        "code": "technology_3",
+        "thumb": "header/svgs/header3.svg",
+        "path": "header/svgs/header3.svg"
+      },
+      {
+        "name": "科技4",
+        "code": "technology_4",
+        "thumb": "header/svgs/header9.svg",
+        "path": "header/svgs/header9.svg"
+      },
+      {
+        "name": "科技5",
+        "code": "technology_5",
+        "thumb": "header/svgs/header11.svg",
+        "path": "header/svgs/header11.svg"
+      },
+      {
+        "name": "科技6",
+        "code": "technology_6",
+        "thumb": "header/svgs/header12.svg",
+        "path": "header/svgs/header12.svg"
+      },
+      {
+        "name": "科技7",
+        "code": "technology_7",
+        "thumb": "header/svgs/header13.svg",
+        "path": "header/svgs/header13.svg"
+      },
+      {
+        "name": "科技8",
+        "code": "technology_8",
+        "thumb": "header/svgs/header14.svg",
+        "path": "header/svgs/header14.svg"
+      },
+      {
+        "name": "科技9",
+        "code": "technology_9",
+        "thumb": "header/svgs/header15.svg",
+        "path": "header/svgs/header15.svg"
+      },
+      {
+        "name": "科技10",
+        "code": "technology_10",
+        "thumb": "header/svgs/header16.svg",
+        "path": "header/svgs/header16.svg"
+      },
+      {
+        "name": "科技11",
+        "code": "technology_11",
+        "thumb": "header/svgs/header17.svg",
+        "path": "header/svgs/header17.svg"
+      },
+      {
+        "name": "科技12",
+        "code": "technology_12",
+        "thumb": "header/svgs/header18.svg",
+        "path": "header/svgs/header18.svg"
+      },
+      {
+        "name": "科技13",
+        "code": "technology_13",
+        "thumb": "header/svgs/header19.svg",
+        "path": "header/svgs/header19.svg"
+      }
+    ]
+  },
+  {
+    "name": "机械",
+    "en_name": "mechine",
+    "list": [
+      {
+        "name": "机械1",
+        "code": "mechine_1",
+        "thumb": "header/svgs/header4.svg",
+        "path": "header/svgs/header4.svg"
+      },
+      {
+        "name": "机械2",
+        "code": "mechine_2",
+        "thumb": "header/svgs/header5.svg",
+        "path": "header/svgs/header5.svg"
+      },
+      {
+        "name": "机械3",
+        "code": "mechine_3",
+        "thumb": "header/svgs/header6.svg",
+        "path": "header/svgs/header6.svg"
+      },
+      {
+        "name": "机械4",
+        "code": "mechine_4",
+        "thumb": "header/svgs/header7.svg",
+        "path": "header/svgs/header7.svg"
+      },
+      {
+        "name": "机械5",
+        "code": "mechine_5",
+        "thumb": "header/svgs/header8.svg",
+        "path": "header/svgs/header8.svg"
+      },
+      {
+        "name": "机械6",
+        "code": "mechine_6",
+        "thumb": "header/svgs/header10.svg",
+        "path": "header/svgs/header10.svg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "name": "科技",
+    "en_name": "technology",
+    "list": [
+      {
+        "name": "科技1",
+        "code": "technology_1",
+        "thumb": "page/thumb/bg01-min.png",
+        "path": "page/images/bg01.png"
+      },
+      {
+        "name": "科技2",
+        "code": "technology_2",
+        "thumb": "page/thumb/bg03-min.png",
+        "path": "page/images/bg02.png"
+      },
+      {
+        "name": "科技3",
+        "code": "technology_3",
+        "thumb": "page/thumb/bg04-min.png",
+        "path": "page/images/bg03.png"
+      }
+    ]
+  },
+  {
+    "name": "机械",
+    "en_name": "mechine",
+    "list": [
+      {
+        "name": "机械1",
+        "code": "mechine_1",
+        "thumb": "page/thumb/bg04-min.png",
+        "path": "page/images/bg04.png"
+      },
+      {
+        "name": "机械2",
+        "code": "mechine_2",
+        "thumb": "page/thumb/bg05-min.png",
+        "path": "page/images/bg05.png"
+      }
+    ]
+  },
+  {
+    "name": "视频",
+    "en_name": "video",
+    "list": [
+      {
+        "name": "视频1",
+        "code": "video_1",
+        "thumb": "page/thumb/video01-min.png",
+        "path": "page/videos/video1.mp4"
+      },
+      {
+        "name": "视频2",
+        "code": "video_2",
+        "thumb": "page/thumb/video02-min.png",
+        "path": "page/videos/video2.mp4"
+      },
+      {
+        "name": "视频3",
+        "code": "video_3",
+        "thumb": "page/thumb/video03-min.png",
+        "path": "page/videos/video3.mp4"
+      },
+      {
+        "name": "视频4",
+        "code": "video_4",
+        "thumb": "page/thumb/video04-min.png",
+        "path": "page/videos/video4.mp4"
+      },
+      {
+        "name": "视频5",
+        "code": "video_5",
+        "thumb": "page/thumb/video05-min.png",
+        "path": "page/videos/video5.mp4"
+      }
+    ]
+  }
+]

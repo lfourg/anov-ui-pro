@@ -1,0 +1,37 @@
+ <svg
+    id="button10"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 251 48"
+    x="0px"
+    y="0px"
+    xml:space="preserve"
+  >
+  <style>
+.st0 {
+  opacity: 0.6;
+  fill-rule: evenodd;
+  clip-rule: evenodd;
+  fill: #115FEA;
+  enable-background: new;
+}
+.st1 {
+  fill: url(#button11_矩形_2180_1_);
+}
+</style>
+    <path id="button11_形状_2171" class="st0" d="M244,1l3,3v39l-3,3v1l5-4V33l2-2V17l-2-2V4.1L245,1H244z" />
+    <linearGradient
+      id="button11_矩形_2180_1_"
+      gradientUnits="userSpaceOnUse"
+      x1="5"
+      y1="1056"
+      x2="246"
+      y2="1056"
+      gradientTransform="matrix(1 0 0 1 0 -1032)"
+    >
+      <stop offset="0" stop-color="#115FEA" style="stop-opacity: 0.251" />
+      <stop offset="1" stop-color="#115FEA" style="stop-opacity: 0.451" />
+    </linearGradient>
+    <rect id="button11_矩形_2180" x="5" y="9" class="st1" width="241" height="30" />
+    <path id="button11_形状_2171_拷贝_2" class="st0" d="M7,1L4,4v39l3,3v1l-5-4V33l-2-2V17l2-2V4.1L6,1H7z" />
+  </svg>

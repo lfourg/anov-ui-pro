@@ -1,0 +1,80 @@
+[
+  {
+    "name": "科技",
+    "en_name": "technology",
+    "list": [
+      {
+        "name": "科技1",
+        "code": "technology_1",
+        "thumb": "button/svgs/button1.svg",
+        "path": "button/svgs/button1.svg"
+      },
+      {
+        "name": "科技2",
+        "code": "technology_2",
+        "thumb": "button/svgs/button2.svg",
+        "path": "button/svgs/button2.svg"
+      },
+      {
+        "name": "科技3",
+        "code": "technology_3",
+        "thumb": "button/svgs/button3.svg",
+        "path": "button/svgs/button3.svg"
+      },
+      {
+        "name": "科技4",
+        "code": "technology_4",
+        "thumb": "button/svgs/button4.svg",
+        "path": "button/svgs/button4.svg"
+      },
+      {
+        "name": "科技5",
+        "code": "technology_5",
+        "thumb": "button/svgs/button5.svg",
+        "path": "button/svgs/button5.svg"
+      },
+      {
+        "name": "科技6",
+        "code": "technology_6",
+        "thumb": "button/svgs/button6.svg",
+        "path": "button/svgs/button6.svg"
+      },
+      {
+        "name": "科技7",
+        "code": "technology_7",
+        "thumb": "button/svgs/button7.svg",
+        "path": "button/svgs/button7.svg"
+      },
+      {
+        "name": "科技8",
+        "code": "technology_8",
+        "thumb": "button/svgs/button8.svg",
+        "path": "button/svgs/button8.svg"
+      },
+      {
+        "name": "科技9",
+        "code": "technology_9",
+        "thumb": "button/svgs/button9.svg",
+        "path": "button/svgs/button9.svg"
+      },
+      {
+        "name": "科技10",
+        "code": "technology_10",
+        "thumb": "button/svgs/button10.svg",
+        "path": "button/svgs/button10.svg"
+      },
+      {
+        "name": "科技11",
+        "code": "technology_11",
+        "thumb": "button/svgs/button11.svg",
+        "path": "button/svgs/button11.svg"
+      },
+      {
+        "name": "科技12",
+        "code": "technology_12",
+        "thumb": "button/svgs/button12.svg",
+        "path": "button/svgs/button12.svg"
+      }
+    ]
+  }
+]

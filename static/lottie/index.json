@@ -1,0 +1,278 @@
+[
+  {
+    "name": "圆形",
+    "en_name": "circles",
+    "list": [
+      {
+        "name": "circles_1",
+        "code": "circles_1",
+        "path": "lottie/json/circles_1.json",
+        "thumb": "lottie/json/circles_1.json"
+      },
+      {
+        "name": "circles_2",
+        "code": "circles_2",
+        "path": "lottie/json/circles_2.json",
+        "thumb": "lottie/json/circles_2.json"
+      },
+      {
+        "name": "circles_3",
+        "code": "circles_3",
+        "path": "lottie/json/circles_3.json",
+        "thumb": "lottie/json/circles_3.json"
+      },
+      {
+        "name": "circles_4",
+        "code": "circles_4",
+        "path": "lottie/json/circles_4.json",
+        "thumb": "lottie/json/circles_4.json"
+      },
+      {
+        "name": "circles_5",
+        "code": "circles_5",
+        "path": "lottie/json/circles_5.json",
+        "thumb": "lottie/json/circles_5.json"
+      },
+      {
+        "name": "circles_6",
+        "code": "circles_6",
+        "path": "lottie/json/circles_6.json",
+        "thumb": "lottie/json/circles_6.json"
+      },
+      {
+        "name": "circles_7",
+        "code": "circles_7",
+        "path": "lottie/json/circles_7.json",
+        "thumb": "lottie/json/circles_7.json"
+      },
+      {
+        "name": "circles_8",
+        "code": "circles_8",
+        "path": "lottie/json/circles_8.json",
+        "thumb": "lottie/json/circles_8.json"
+      },
+      {
+        "name": "circles_9",
+        "code": "circles_9",
+        "path": "lottie/json/circles_9.json",
+        "thumb": "lottie/json/circles_9.json"
+      },
+      {
+        "name": "circles_10",
+        "code": "circles_10",
+        "path": "lottie/json/circles_10.json",
+        "thumb": "lottie/json/circles_10.json"
+      },
+      {
+        "name": "circles_11",
+        "code": "circles_11",
+        "path": "lottie/json/circles_11.json",
+        "thumb": "lottie/json/circles_11.json"
+      }
+    ]
+  },
+  {
+    "name": "线型",
+    "en_name": "line",
+    "list": [
+      {
+        "name": "line1",
+        "code": "line1",
+        "path": "lottie/json/line1.json",
+        "thumb": "lottie/json/line1.json"
+      },
+      {
+        "name": "line2",
+        "code": "line2",
+        "path": "lottie/json/line2.json",
+        "thumb": "lottie/json/line2.json"
+      },
+      {
+        "name": "line3",
+        "code": "line3",
+        "path": "lottie/json/line3.json",
+        "thumb": "lottie/json/line3.json"
+      },
+      {
+        "name": "line4",
+        "code": "line4",
+        "path": "lottie/json/line4.json",
+        "thumb": "lottie/json/line4.json"
+      },
+      {
+        "name": "line5",
+        "code": "line5",
+        "path": "lottie/json/line5.json",
+        "thumb": "lottie/json/line5.json"
+      },
+      {
+        "name": "line6",
+        "code": "line6",
+        "path": "lottie/json/line6.json",
+        "thumb": "lottie/json/line6.json"
+      },
+      {
+        "name": "line7",
+        "code": "line7",
+        "path": "lottie/json/line7.json",
+        "thumb": "lottie/json/line7.json"
+      },
+      {
+        "name": "line8",
+        "code": "line8",
+        "path": "lottie/json/line8.json",
+        "thumb": "lottie/json/line8.json"
+      },
+      {
+        "name": "line9",
+        "code": "line9",
+        "path": "lottie/json/line9.json",
+        "thumb": "lottie/json/line9.json"
+      },
+      {
+        "name": "line10",
+        "code": "line10",
+        "path": "lottie/json/line10.json",
+        "thumb": "lottie/json/line10.json"
+      },
+      {
+        "name": "line11",
+        "code": "line11",
+        "path": "lottie/json/line11.json",
+        "thumb": "lottie/json/line11.json"
+      },
+      {
+        "name": "line12",
+        "code": "line12",
+        "path": "lottie/json/line12.json",
+        "thumb": "lottie/json/line12.json"
+      },
+      {
+        "name": "line13",
+        "code": "line13",
+        "path": "lottie/json/line13.json",
+        "thumb": "lottie/json/line13.json"
+      },
+      {
+        "name": "line14",
+        "code": "line14",
+        "path": "lottie/json/line14.json",
+        "thumb": "lottie/json/line14.json"
+      },
+      {
+        "name": "line15",
+        "code": "line15",
+        "path": "lottie/json/line15.json",
+        "thumb": "lottie/json/line15.json"
+      },
+      {
+        "name": "line16",
+        "code": "line16",
+        "path": "lottie/json/line16.json",
+        "thumb": "lottie/json/line16.json"
+      },
+      {
+        "name": "line17",
+        "code": "line17",
+        "path": "lottie/json/line17.json",
+        "thumb": "lottie/json/line17.json"
+      },
+      {
+        "name": "line18",
+        "code": "line18",
+        "path": "lottie/json/line18.json",
+        "thumb": "lottie/json/line18.json"
+      },
+      {
+        "name": "line19",
+        "code": "line19",
+        "path": "lottie/json/line19.json",
+        "thumb": "lottie/json/line19.json"
+      },
+      {
+        "name": "line20",
+        "code": "line20",
+        "path": "lottie/json/line20.json",
+        "thumb": "lottie/json/line20.json"
+      }
+    ]
+  },
+  {
+    "name": "加载",
+    "en_name": "target",
+    "list": [
+      {
+        "name": "target_1",
+        "code": "target_1",
+        "path": "lottie/json/target_1.json",
+        "thumb": "lottie/json/target_1.json"
+      },
+      {
+        "name": "target_2",
+        "code": "target_2",
+        "path": "lottie/json/target_2.json",
+        "thumb": "lottie/json/target_2.json"
+      },
+      {
+        "name": "target_3",
+        "code": "target_3",
+        "path": "lottie/json/target_3.json",
+        "thumb": "lottie/json/target_3.json"
+      },
+      {
+        "name": "target_4",
+        "code": "target_4",
+        "path": "lottie/json/target_4.json",
+        "thumb": "lottie/json/target_4.json"
+      },
+      {
+        "name": "target_5",
+        "code": "target_5",
+        "path": "lottie/json/target_5.json",
+        "thumb": "lottie/json/target_5.json"
+      },
+      {
+        "name": "target_6",
+        "code": "target_6",
+        "path": "lottie/json/target_6.json",
+        "thumb": "lottie/json/target_6.json"
+      },
+      {
+        "name": "target_7",
+        "code": "target_7",
+        "path": "lottie/json/target_7.json",
+        "thumb": "lottie/json/target_7.json"
+      },
+      {
+        "name": "target_8",
+        "code": "target_8",
+        "path": "lottie/json/target_8.json",
+        "thumb": "lottie/json/target_8.json"
+      },
+      {
+        "name": "target_9",
+        "code": "target_9",
+        "path": "lottie/json/target_9.json",
+        "thumb": "lottie/json/target_9.json"
+      },
+      {
+        "name": "target_10",
+        "code": "target_10",
+        "path": "lottie/json/target_10.json",
+        "thumb": "lottie/json/target_10.json"
+      },
+      {
+        "name": "target_11",
+        "code": "target_11",
+        "path": "lottie/json/target_11.json",
+        "thumb": "lottie/json/target_11.json"
+      },
+      {
+        "name": "target_12",
+        "code": "target_12",
+        "path": "lottie/json/target_12.json",
+        "thumb": "lottie/json/target_12.json"
+      }
+    ]
+  }
+]

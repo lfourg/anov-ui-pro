@@ -1,0 +1,15 @@
+{
+  "name": "@anov/3d-china-map",
+  "version": "1.0.1",
+  "description": "中国地图3d模型",
+  "main": "index.u3d",
+  "keywords": [
+    "anov",
+    "chinaMap"
+  ],
+  "author": "",
+  "license": "MIT",
+  "__npminstall_done": "Mon Mar 21 2022 19:22:14 GMT+0800 (中国标准时间)",
+  "_from": "@anov/3d-china-map@1.0.1",
+  "_resolved": "https://registry.npmmirror.com/@anov/3d-china-map/-/3d-china-map-1.0.1.tgz"
+}

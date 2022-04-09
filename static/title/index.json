@@ -1,0 +1,98 @@
+[
+  {
+    "name": "科技",
+    "en_name": "technology",
+    "list": [
+      {
+        "name": "科技1",
+        "code": "technology_1",
+        "thumb": "title/svgs/title1.svg",
+        "path": "title/svgs/title1.svg"
+      },
+      {
+        "name": "科技2",
+        "code": "technology_2",
+        "thumb": "title/svgs/title2.svg",
+        "path": "title/svgs/title2.svg"
+      },
+      {
+        "name": "科技3",
+        "code": "technology_3",
+        "thumb": "title/svgs/title3.svg",
+        "path": "title/svgs/title3.svg"
+      },
+      {
+        "name": "科技4",
+        "code": "technology_4",
+        "thumb": "title/svgs/title8.svg",
+        "path": "title/svgs/title8.svg"
+      },
+      {
+        "name": "科技5",
+        "code": "technology_5",
+        "thumb": "title/svgs/title9.svg",
+        "path": "title/svgs/title9.svg"
+      },
+      {
+        "name": "科技6",
+        "code": "technology_6",
+        "thumb": "title/svgs/title10.svg",
+        "path": "title/svgs/title10.svg"
+      },
+      {
+        "name": "科技7",
+        "code": "technology_7",
+        "thumb": "title/svgs/title11.svg",
+        "path": "title/svgs/title11.svg"
+      },
+      {
+        "name": "科技8",
+        "code": "technology_8",
+        "thumb": "title/svgs/title12.svg",
+        "path": "title/svgs/title12.svg"
+      },
+      {
+        "name": "科技9",
+        "code": "technology_9",
+        "thumb": "title/svgs/title13.svg",
+        "path": "title/svgs/title13.svg"
+      },
+      {
+        "name": "科技10",
+        "code": "technology_10",
+        "thumb": "title/svgs/title14.svg",
+        "path": "title/svgs/title14.svg"
+      }
+    ]
+  },
+  {
+    "name": "机械",
+    "en_name": "mechine",
+    "list": [
+      {
+        "name": "机械1",
+        "code": "mechine_1",
+        "thumb": "title/svgs/title4.svg",
+        "path": "title/svgs/title4.svg"
+      },
+      {
+        "name": "机械2",
+        "code": "mechine_2",
+        "thumb": "title/svgs/title5.svg",
+        "path": "title/svgs/title5.svg"
+      },
+      {
+        "name": "机械3",
+        "code": "mechine_3",
+        "thumb": "title/svgs/title6.svg",
+        "path": "title/svgs/title6.svg"
+      },
+      {
+        "name": "机械4",
+        "code": "mechine_4",
+        "thumb": "title/svgs/title7.svg",
+        "path": "title/svgs/title7.svg"
+      }
+    ]
+  }
+]

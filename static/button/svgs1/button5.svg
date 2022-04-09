@@ -1,0 +1,35 @@
+<svg
+    id="button5"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 180 40"
+    x="0px"
+    y="0px"
+    xml:space="preserve"
+  >
+    <defs>
+      <linearGradient
+        id="button5_未命名的渐变_3"
+        x1="837"
+        y1="-449.11"
+        x2="1003"
+        y2="-449.11"
+        gradientTransform="matrix(1, 0, 0, -1, -830, -429.11)"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="0" stop-color="#115FEA" stop-opacity="0" />
+        <stop offset="0.5" stop-color="#115FEA" />
+        <stop offset="0.5" stop-color="#115FEA" />
+        <stop offset="1" stop-color="#115FEA" stop-opacity="0" />
+      </linearGradient>
+    </defs>
+    <path
+      id="button5_bg"
+      d="M169,12V28l4,2V40H7V30l4-2V12L7,10V0H173V10Z"
+      fill-rule="evenodd"
+      opacity="0.6"
+      fill="url(#button5_未命名的渐变_3)"
+      style="isolation: isolate"
+    />
+    <path id="button5_def" d="M176,40V30l-4-3V13l4-3V0h4V40ZM4,40H0V0H4V10l4,3V27L4,30Z" fill="#115FEA" fill-rule="evenodd" />
+  </svg>

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2093062921
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 344fc74c441773d5d60eed786dad650f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Libraries/package_Modules/PublicScripts/ArtShaders/Add Lv1.shader
+- Assets/Libraries/package_Modules/PublicFrame/NGUI/Resources/Shaders/Unlit - Transparent
+  Colored.shader
+- Assets/Libraries/package_Modules/PublicScripts/ArtShaders/ZhangMin-Wave.shader
+- Assets/Libraries/package_Modules/PublicScripts/ArtShaders/Alpha Blend Lv1.shader
+Dependencies: []
