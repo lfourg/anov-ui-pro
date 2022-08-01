@@ -74,6 +74,28 @@
         "code": "technology_12",
         "thumb": "button/svgs/button12.svg",
         "path": "button/svgs/button12.svg"
+      },{
+        "name": "科技13",
+        "code": "technology_13",
+        "thumb": "button/svgs/button13.svg",
+        "path": "button/svgs/button13.svg"
+      },
+      {
+        "name": "科技14",
+        "code": "technology_14",
+        "thumb": "button/svgs/button14.svg",
+        "path": "button/svgs/button14.svg"
+      },{
+        "name": "科技15",
+        "code": "technology_15",
+        "thumb": "button/svgs/button15.svg",
+        "path": "button/svgs/button15.svg"
+      },
+      {
+        "name": "科技16",
+        "code": "technology_16",
+        "thumb": "button/svgs/button16.svg",
+        "path": "button/svgs/button16.svg"
       }
     ]
   }
