@@ -2,7 +2,7 @@ window.anovuiConfig = {
   serviceBasePath: "",
   sourceTypeValue:"static,api,datasource,staticFile,indicator",
   uploadAction: "/management/management/v1/go-cases/v1/components/upload",
-  assetsBasePath: "/static/",
+  assetsBasePath: "/anov-ui-pro/static/",
   geoJsonBasePath:"https://obs-helf.woyun.cn/anov-resources/anov-geojson",
   uploadFileSize: {
     //资源上传大小限制，单位M
